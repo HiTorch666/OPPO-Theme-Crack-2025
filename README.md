@@ -36,7 +36,8 @@
 接着打开[scene](https://vtools.omarea.com/)主界面后，左划，点进应用管理，接着点搜索框，搜索：“主题商城” ，点开“冻结/解冻”，选择“限制使用”确定。
 
 （这里不能点冻结选项，不然会前功尽弃）
-（估计几天后会修复，我会把主题商城安装包放在 123盘）
+（估计几天后会修复，我会把主题商城安装包放在云盘里）
 
-（链接：https://www.123865.com/s/5DuLjv-ehcbd
-备用：https://www.123684.com/s/5DuLjv-ehcbd）
+123云：[链接](https://www.123865.com/s/5DuLjv-zhcbd)             [备用](https://www.123684.com/s/5DuLjv-zhcbd)
+
+迅雷云盘:[链接](https://pan.xunlei.com/s/VOLEMEE7yqdhV4bgyTYt0XgoA1?pwd=pa2u#)
