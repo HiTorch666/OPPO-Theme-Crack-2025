@@ -3,7 +3,7 @@
 
 实测最新版主题商城（13.0.0）可用
 
-视频：
+视频：https://www.bilibili.com/video/BV159QwYKEnJ
 
 需要工具：[Shizuku](https://github.com/RikkaApps/Shizuku)
 [scene](https://vtools.omarea.com/)
