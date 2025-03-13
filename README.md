@@ -30,9 +30,11 @@
 
 试用后打开[Shizuku](https://github.com/RikkaApps/Shizuku)激活，再打开[scene](https://vtools.omarea.com/)点击adb模式，
 第一次打开会显示：要允许[scene](https://vtools.omarea.com/)使用[Shizuku](https://github.com/RikkaApps/Shizuku)吗？）然后点“始终允许”
-进入[scene](https://vtools.omarea.com/)主界面后，左划，点进应用管理，然后右划，接着点搜索框，搜索：“经典主题”和“主题基础服务” ，点开“冻结/解冻”，选择“限制使用”和“冻结”后点确定。
+
+进入[scene](https://vtools.omarea.com/)主界面后，左划，点进应用管理，然后右划，接着点搜索框搜索：“经典主题”和“主题基础服务” ，点开“冻结/解冻”，选择“限制使用”和“冻结”后点确定。
 
 返回桌面长按“主题商城”图标，点击应用信息，再点击“强制停止”，并进入“耗电管理”，取消“允许应用后台行为”，点击“强制停止应用”
+
 接着打开[scene](https://vtools.omarea.com/)主界面后，左划，点进应用管理，接着点搜索框，搜索：“主题商城” ，点开“冻结/解冻”，选择“限制使用”确定。
 
 （这里不能点冻结选项，不然会前功尽弃）
